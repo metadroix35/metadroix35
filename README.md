@@ -117,24 +117,7 @@ I'm a passionate developer who loves turning ideas into reality through code. Cu
 </div>
 
 ---
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=metadroix35&theme=radical&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
 ---
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/metadroix35/metadroix35/output/github-contribution-grid-snake.svg)
-
-</div>
 
 ---
 
