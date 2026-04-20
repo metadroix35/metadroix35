@@ -117,9 +117,6 @@ I'm a passionate developer who loves turning ideas into reality through code. Cu
 </div>
 
 ---
----
-
----
 
 ## 🎯 Current Focus
 
