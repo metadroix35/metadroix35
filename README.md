@@ -16,9 +16,9 @@
 
 *"I don't just build apps — I create experiences that matter."*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/soumyajeet-satapathy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/soumyajeet-satapathy-57b2a1287)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/metadroix35)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](soumyajeetsatapathy@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=metadroix35&color=blueviolet&style=for-the-badge)
 
